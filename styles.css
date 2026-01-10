@@ -477,6 +477,7 @@ body {
     margin-top: 30px;
 }
 
+
 /* Responsive */
 @media (max-width: 1024px) {
     .navbar { padding: 15px 30px; }
